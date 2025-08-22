@@ -25,7 +25,8 @@ It provides a platform where users can **share their skills** and **learn from o
 
 ## 📂 Folder Structure  
 SkillSwap/
-│── index.php # Homepage
+│── index.php # Homepage 
+
 │── login.php # User login
 │── register.php # User registration
 │── dashboard.php # User dashboard after login
@@ -54,10 +55,15 @@ SkillSwap/
    
 Import skillswap.sql file from the sql/ folder.
 
-Run Project
-1)Move the SkillSwap folder into your XAMPP htdocs directory: C:\xampp\htdocs\SkillSwap\
-2)Start Apache and MySQL from the XAMPP control panel.
-3)Open in browser: http://localhost/SkillSwap/
+## 🚀 Run Project  
+
+1. Move the **SkillSwap** folder into your XAMPP `htdocs` directory:  
+   `C:\xampp\htdocs\SkillSwap\`  
+
+2. Start **Apache** and **MySQL** from the XAMPP control panel.  
+
+3. Open in browser:  
+   [http://localhost/SkillSwap/](http://localhost/SkillSwap/)  
 
 
 Future Enhancements:
